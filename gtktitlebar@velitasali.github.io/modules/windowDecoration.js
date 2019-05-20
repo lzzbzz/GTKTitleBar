@@ -189,10 +189,7 @@ var WindowDecoration = new Lang.Class({
         if (!this._handleWindow(win))
             return;
 
-        if (isMaximized(win, this._setting))
-            this._hideTitlebar(win);
-        else
-            this._showTitlebar(win);
+        this._hideTitlebar(win);
     },
 
     _undecorateWindows() {
