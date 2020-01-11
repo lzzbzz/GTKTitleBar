@@ -5,8 +5,7 @@
   "shell-version": [
     "3.28.0",
     "3.30.0",
-    "3.32.0",
-    "3.32.2"
+    "3.32.0"
   ],
   "url": "https://github.com/velitasali/GTKTitleBar",
   "uuid": "gtktitlebar@velitasali.github.io",
